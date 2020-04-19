@@ -1,5 +1,5 @@
 # Reference site  
-*gh-pages*:
+*gh-pages*:  
 https://github.com/gitname/react-gh-pages  
 
 *ReactアプリをGitHub Pages(Project Pages)で公開する*:  
